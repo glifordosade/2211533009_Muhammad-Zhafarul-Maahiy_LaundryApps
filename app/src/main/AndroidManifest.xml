@@ -13,37 +13,38 @@
         android:theme="@style/Theme.Laundry"
         tools:targetApi="31">
         <activity
-            android:name=".PromoActivity"
+            android:name="com.spin.Spinlaundry.PromoActivity"
             android:exported="false" />
         <activity
-            android:name=".PelangganActivity"
+            android:name="com.spin.Spinlaundry.PelangganActivity"
             android:exported="false" />
         <activity
-            android:name=".LayananActivity"
+            android:name="com.spin.Spinlaundry.LayananActivity"
             android:exported="false" />
         <activity
-            android:name=".AddLaundry"
+            android:name="com.spin.Spinlaundry.AddLaundry"
             android:exported="false" />
         <activity
-            android:name=".DetailLaundryActivity"
+            android:name="com.spin.Spinlaundry.DetailLaundryActivity"
             android:exported="false" />
         <activity
-            android:name=".LaundryActivity"
+            android:name="com.spin.Spinlaundry.LaundryActivity"
             android:exported="false" />
         <activity
-            android:name=".Dashboard"
+            android:name="com.spin.Spinlaundry.Dashboard"
             android:exported="false" />
         <activity
-            android:name=".LoginActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
+            android:name="com.spin.Spinlaundry.LoginActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name="com.spin.Spinlaundry.MainActivity"
+            android:exported="true">
         </activity>
     </application>
 
