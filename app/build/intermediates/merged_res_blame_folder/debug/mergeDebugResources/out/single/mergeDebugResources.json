@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_arrow.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_loop.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\loop.png"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.spin.laundry.app-debug-31:/layout_activity_dashboard.xml.flat",
+        "source": "com.spin.laundry.app-main-33:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_fast.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\fast.png"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\layout_activity_add_laundry.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\layout\\activity_add_laundry.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\layout_activity_promo.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\layout\\activity_promo.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_timer.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\timer.png"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_timing.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\timing.png"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\layout_activity_pelanggan.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\layout\\activity_pelanggan.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_home.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\layout_activity_detail_laundry.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\layout\\activity_detail_laundry.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\layout_activity_laundry.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\layout\\activity_laundry.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_user.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_flash.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\flash.png"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\layout_activity_layanan.xml.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\layout\\activity_layanan.xml"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_times.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\times.png"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_add.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-debug-31:\\drawable_arrows.png.flat",
+        "source": "C:\\Users\\maahi\\.gradle\\daemon\\8.7\\com.spin.laundry.app-main-33:\\drawable\\arrows.png"
+    }
+]

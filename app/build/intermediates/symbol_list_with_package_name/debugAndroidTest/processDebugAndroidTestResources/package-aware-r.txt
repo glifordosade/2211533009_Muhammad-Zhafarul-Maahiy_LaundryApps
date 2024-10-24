@@ -1,0 +1,3 @@
+com.spin.laundry.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

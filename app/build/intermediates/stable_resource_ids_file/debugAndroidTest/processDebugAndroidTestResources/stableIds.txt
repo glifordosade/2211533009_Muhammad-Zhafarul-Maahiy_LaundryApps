@@ -1,0 +1,2 @@
+com.spin.laundry.test:style/WhiteBackgroundTheme = 0x7f010001
+com.spin.laundry.test:style/WhiteBackgroundDialogTheme = 0x7f010000

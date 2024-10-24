@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="cream">#F2EDB4</color>
+    <color name="green">#27A827</color>
+    <color name="orenteks">#F07777</color>
+    <color name="orentombol">#DE6700</color>
+    <color name="red">#C81515</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">laundry</string>
+    <style name="Base.Theme.Laundry" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Laundry" parent="Base.Theme.Laundry"/>
+</resources>
