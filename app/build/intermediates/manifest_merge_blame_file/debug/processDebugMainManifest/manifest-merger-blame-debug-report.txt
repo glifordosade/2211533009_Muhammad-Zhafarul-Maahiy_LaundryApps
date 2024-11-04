@@ -8,172 +8,175 @@
 8        android:minSdkVersion="33"
 9        android:targetSdkVersion="34" />
 10
-11    <permission
-11-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\transforms-4\5f2cd572c2f5674e7ed4cfd990fc7ac0\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-12        android:name="com.spin.laundry.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-12-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\transforms-4\5f2cd572c2f5674e7ed4cfd990fc7ac0\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
-13        android:protectionLevel="signature" />
-13-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\transforms-4\5f2cd572c2f5674e7ed4cfd990fc7ac0\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
-14
-15    <uses-permission android:name="com.spin.laundry.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-15-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\transforms-4\5f2cd572c2f5674e7ed4cfd990fc7ac0\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-15-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\transforms-4\5f2cd572c2f5674e7ed4cfd990fc7ac0\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:5:5-80
+11-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:5:22-77
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\8.9\transforms\c77e32cbf54f826697804b0c5c4f7c8c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14        android:name="com.spin.laundry.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\8.9\transforms\c77e32cbf54f826697804b0c5c4f7c8c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\8.9\transforms\c77e32cbf54f826697804b0c5c4f7c8c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 16
-17    <application
-17-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:5:5-49:19
-18        android:allowBackup="true"
-18-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:6:9-35
-19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\transforms-4\5f2cd572c2f5674e7ed4cfd990fc7ac0\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
-20        android:dataExtractionRules="@xml/data_extraction_rules"
-20-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:7:9-65
-21        android:debuggable="true"
-22        android:extractNativeLibs="false"
-23        android:fullBackupContent="@xml/backup_rules"
-23-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:8:9-54
-24        android:icon="@mipmap/ic_launcher"
-24-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:9:9-43
-25        android:label="@string/app_name"
-25-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:10:9-41
-26        android:roundIcon="@mipmap/ic_launcher_round"
-26-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:11:9-54
-27        android:supportsRtl="true"
-27-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:12:9-35
-28        android:testOnly="true"
-29        android:theme="@style/Theme.Laundry" >
-29-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:13:9-45
-30        <activity
-30-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:15:9-17:40
-31            android:name="com.spin.Spinlaundry.PromoActivity"
-31-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:16:13-62
-32            android:exported="false" />
-32-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:17:13-37
-33        <activity
-33-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:18:9-20:40
-34            android:name="com.spin.Spinlaundry.PelangganActivity"
-34-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:19:13-66
-35            android:exported="false" />
-35-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:20:13-37
-36        <activity
-36-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:21:9-23:40
-37            android:name="com.spin.Spinlaundry.LayananActivity"
-37-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:22:13-64
-38            android:exported="false" />
-38-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:23:13-37
-39        <activity
-39-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:24:9-26:40
-40            android:name="com.spin.Spinlaundry.AddLaundry"
-40-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:25:13-59
-41            android:exported="false" />
-41-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:26:13-37
-42        <activity
-42-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:27:9-29:40
-43            android:name="com.spin.Spinlaundry.DetailLaundryActivity"
-43-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:28:13-70
-44            android:exported="false" />
-44-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:29:13-37
-45        <activity
-45-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:30:9-32:40
-46            android:name="com.spin.Spinlaundry.LaundryActivity"
-46-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:31:13-64
-47            android:exported="false" />
-47-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:32:13-37
-48        <activity
-48-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:33:9-35:40
-49            android:name="com.spin.Spinlaundry.Dashboard"
-49-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:34:13-58
-50            android:exported="false" />
-50-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:35:13-37
-51        <activity
-51-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:36:9-44:20
-52            android:name="com.spin.Spinlaundry.LoginActivity"
-52-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:37:13-62
-53            android:exported="true" >
-53-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:38:13-36
-54            <intent-filter>
-54-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:39:13-43:29
-55                <action android:name="android.intent.action.MAIN" />
-55-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:40:17-69
-55-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:40:25-66
-56
-57                <category android:name="android.intent.category.LAUNCHER" />
-57-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:42:17-77
-57-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:42:27-74
-58            </intent-filter>
-59        </activity>
-60        <activity
-60-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:45:9-48:20
-61            android:name="com.spin.Spinlaundry.MainActivity"
-61-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:46:13-61
-62            android:exported="true" >
-62-->D:\zhafaFile\ProjectMobile\Laundry\app\src\main\AndroidManifest.xml:47:13-36
-63        </activity>
-64
-65        <provider
-65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\transforms-4\940ddfe6b0cd5e755c771e8b38d57035\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-66            android:name="androidx.startup.InitializationProvider"
-66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\transforms-4\940ddfe6b0cd5e755c771e8b38d57035\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-67            android:authorities="com.spin.laundry.androidx-startup"
-67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\transforms-4\940ddfe6b0cd5e755c771e8b38d57035\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-68            android:exported="false" >
-68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\transforms-4\940ddfe6b0cd5e755c771e8b38d57035\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-69            <meta-data
-69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\transforms-4\940ddfe6b0cd5e755c771e8b38d57035\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-70                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\transforms-4\940ddfe6b0cd5e755c771e8b38d57035\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-71                android:value="androidx.startup" />
-71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\transforms-4\940ddfe6b0cd5e755c771e8b38d57035\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-72            <meta-data
-72-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\maahi\.gradle\caches\transforms-4\deffca864b36bed43b78ebb16759317c\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
-73                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-73-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\maahi\.gradle\caches\transforms-4\deffca864b36bed43b78ebb16759317c\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
-74                android:value="androidx.startup" />
-74-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\maahi\.gradle\caches\transforms-4\deffca864b36bed43b78ebb16759317c\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
-75            <meta-data
-75-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-76                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-76-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-77                android:value="androidx.startup" />
-77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-78        </provider>
-79
-80        <receiver
-80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-81            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-82            android:directBootAware="false"
-82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-83            android:enabled="true"
-83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-84            android:exported="true"
-84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-85            android:permission="android.permission.DUMP" >
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-86            <intent-filter>
-86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-87                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-88            </intent-filter>
-89            <intent-filter>
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-90                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
-91            </intent-filter>
-92            <intent-filter>
-92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-93                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-94            </intent-filter>
-95            <intent-filter>
-95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-96                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\transforms-4\91a0c5d929da08d998dd5e2b8f19469e\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
-97            </intent-filter>
-98        </receiver>
-99    </application>
-100
-101</manifest>
+17    <uses-permission android:name="com.spin.laundry.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\8.9\transforms\c77e32cbf54f826697804b0c5c4f7c8c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\8.9\transforms\c77e32cbf54f826697804b0c5c4f7c8c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:7:5-50:19
+20        android:allowBackup="true"
+20-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] C:\Users\maahi\.gradle\caches\8.9\transforms\c77e32cbf54f826697804b0c5c4f7c8c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:9:9-65
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:10:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:11:9-43
+27        android:label="@string/app_name"
+27-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:12:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:13:9-54
+29        android:supportsRtl="true"
+29-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:14:9-35
+30        android:testOnly="true"
+31        android:theme="@style/Theme.Laundry" >
+31-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:15:9-45
+32        <activity
+32-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:17:9-19:40
+33            android:name="pelanggan.PelangganAddActivity"
+33-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:18:13-58
+34            android:exported="false" />
+34-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:19:13-37
+35        <activity
+35-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:20:9-22:40
+36            android:name="com.spin.Spinlaundry.PromoActivity"
+36-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:21:13-62
+37            android:exported="false" />
+37-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:22:13-37
+38        <activity
+38-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:23:9-25:40
+39            android:name="pelanggan.PelangganActivity"
+39-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:24:13-55
+40            android:exported="false" />
+40-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:25:13-37
+41        <activity
+41-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:26:9-28:40
+42            android:name="com.spin.Spinlaundry.LayananActivity"
+42-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:27:13-64
+43            android:exported="false" />
+43-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:28:13-37
+44        <activity
+44-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:29:9-31:40
+45            android:name="com.spin.Spinlaundry.AddLaundry"
+45-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:30:13-59
+46            android:exported="false" />
+46-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:31:13-37
+47        <activity
+47-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:32:9-34:40
+48            android:name="com.spin.Spinlaundry.DetailLaundryActivity"
+48-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:33:13-70
+49            android:exported="false" />
+49-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:34:13-37
+50        <activity
+50-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:35:9-37:40
+51            android:name="com.spin.Spinlaundry.LaundryActivity"
+51-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:36:13-64
+52            android:exported="false" />
+52-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:37:13-37
+53        <activity
+53-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:38:9-40:40
+54            android:name="com.spin.Spinlaundry.Dashboard"
+54-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:39:13-58
+55            android:exported="false" />
+55-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:40:13-37
+56        <activity
+56-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:41:9-49:20
+57            android:name="com.spin.Spinlaundry.LoginActivity"
+57-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:42:13-62
+58            android:exported="true" >
+58-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:43:13-36
+59            <intent-filter>
+59-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:44:13-48:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:45:17-69
+60-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:45:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:47:17-77
+62-->D:\Project\android\LaundryApps\app\src\main\AndroidManifest.xml:47:27-74
+63            </intent-filter>
+64        </activity>
+65
+66        <provider
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\8.9\transforms\baec928644ef359d8df5035c29ddb20b\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+67            android:name="androidx.startup.InitializationProvider"
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\8.9\transforms\baec928644ef359d8df5035c29ddb20b\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+68            android:authorities="com.spin.laundry.androidx-startup"
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\8.9\transforms\baec928644ef359d8df5035c29ddb20b\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+69            android:exported="false" >
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\8.9\transforms\baec928644ef359d8df5035c29ddb20b\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+70            <meta-data
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\8.9\transforms\baec928644ef359d8df5035c29ddb20b\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+71                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\8.9\transforms\baec928644ef359d8df5035c29ddb20b\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+72                android:value="androidx.startup" />
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\maahi\.gradle\caches\8.9\transforms\baec928644ef359d8df5035c29ddb20b\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+73            <meta-data
+73-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\maahi\.gradle\caches\8.9\transforms\7ff2369ec7e88b7d010b3340f996931e\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+74                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+74-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\maahi\.gradle\caches\8.9\transforms\7ff2369ec7e88b7d010b3340f996931e\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+75                android:value="androidx.startup" />
+75-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\maahi\.gradle\caches\8.9\transforms\7ff2369ec7e88b7d010b3340f996931e\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+76            <meta-data
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+77                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+78                android:value="androidx.startup" />
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+79        </provider>
+80
+81        <receiver
+81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+82            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+83            android:directBootAware="false"
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+84            android:enabled="true"
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+85            android:exported="true"
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+86            android:permission="android.permission.DUMP" >
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+87            <intent-filter>
+87-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+88                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+89            </intent-filter>
+90            <intent-filter>
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+91                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+92            </intent-filter>
+93            <intent-filter>
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+94                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+95            </intent-filter>
+96            <intent-filter>
+96-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+97                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\maahi\.gradle\caches\8.9\transforms\b862b4f9adba616eb06e6e12d8c09864\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+98            </intent-filter>
+99        </receiver>
+100    </application>
+101
+102</manifest>

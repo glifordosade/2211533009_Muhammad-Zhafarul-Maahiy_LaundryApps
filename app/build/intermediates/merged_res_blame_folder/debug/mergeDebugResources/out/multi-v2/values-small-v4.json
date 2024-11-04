@@ -4,7 +4,7 @@
             "outputFile": "com.spin.laundry.app-mergeDebugResources-29:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\maahi\\.gradle\\caches\\transforms-4\\8f1b1885c6b206c874232c6f1e69ac26\\transformed\\material-1.10.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "source": "C:\\Users\\maahi\\.gradle\\caches\\8.9\\transforms\\25c1aaf61e28eb4195367148bb6cbd97\\transformed\\material-1.10.0\\res\\values-small-v4\\values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

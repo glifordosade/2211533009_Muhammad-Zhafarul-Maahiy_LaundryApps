@@ -12,6 +12,8 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 import com.spin.laundry.R;
 
+import pelanggan.PelangganActivity;
+
 public class Dashboard extends AppCompatActivity {
 
     CardView Laundry, Layanan, Pelanggan, Promo;

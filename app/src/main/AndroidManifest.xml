@@ -21,7 +21,7 @@
             android:name="com.spin.Spinlaundry.PromoActivity"
             android:exported="false" />
         <activity
-            android:name="com.spin.Spinlaundry.PelangganActivity"
+            android:name="pelanggan.PelangganActivity"
             android:exported="false" />
         <activity
             android:name="com.spin.Spinlaundry.LayananActivity"

@@ -4,7 +4,7 @@
             "outputFile": "com.spin.laundry.app-mergeDebugResources-29:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\maahi\\.gradle\\caches\\transforms-4\\dd326e30485a783ddd1a181d594744e4\\transformed\\appcompat-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\maahi\\.gradle\\caches\\8.9\\transforms\\71a0e3c8b7a97b2921cc6c8c1f5b8a40\\transformed\\appcompat-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\maahi\\.gradle\\caches\\transforms-4\\8f1b1885c6b206c874232c6f1e69ac26\\transformed\\material-1.10.0\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\maahi\\.gradle\\caches\\8.9\\transforms\\25c1aaf61e28eb4195367148bb6cbd97\\transformed\\material-1.10.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

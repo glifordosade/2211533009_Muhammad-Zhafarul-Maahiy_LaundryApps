@@ -2225,6 +2225,7 @@ dimen hint_pressed_alpha_material_light
 dimen item_touch_helper_max_drag_scroll_per_frame
 dimen item_touch_helper_swipe_escape_max_velocity
 dimen item_touch_helper_swipe_escape_velocity
+dimen lg
 dimen m3_alert_dialog_action_bottom_padding
 dimen m3_alert_dialog_action_top_padding
 dimen m3_alert_dialog_corner_size
@@ -2643,6 +2644,7 @@ dimen material_textinput_min_width
 dimen material_time_picker_minimum_screen_height
 dimen material_time_picker_minimum_screen_width
 dimen material_timepicker_dialog_buttons_margin_top
+dimen md
 dimen mtrl_alert_dialog_background_inset_bottom
 dimen mtrl_alert_dialog_background_inset_end
 dimen mtrl_alert_dialog_background_inset_start
@@ -2855,6 +2857,8 @@ dimen notification_small_icon_size_as_large
 dimen notification_subtext_size
 dimen notification_top_pad
 dimen notification_top_pad_large_text
+dimen s
+dimen sm
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin
@@ -2863,6 +2867,8 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
+dimen xs
+dimen xss
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -3162,6 +3168,9 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btnPelAdd
+id btnPelAddBatal
+id btnPelAddSimpan
 id btnlog
 id button
 id buttonPanel
@@ -3203,6 +3212,7 @@ id currentState
 id custom
 id customPanel
 id cut
+id cvItemPel
 id date_picker_actions
 id decelerate
 id decelerateAndComplete
@@ -3236,6 +3246,9 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id edPelAddEmail
+id edPelAddHp
+id edPelAddNama
 id edge
 id edit_query
 id elastic
@@ -3435,6 +3448,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rvPelanggan
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -3566,6 +3580,8 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvItemPelHp
+id tvItemPelNama
 id unchecked
 id uniform
 id unlabeled
@@ -3706,11 +3722,13 @@ layout abc_tooltip
 layout activity_add_laundry
 layout activity_dashboard
 layout activity_detail_laundry
+layout activity_item_pelanggan
 layout activity_laundry
 layout activity_layanan
 layout activity_login
 layout activity_main
 layout activity_pelanggan
+layout activity_pelanggan_add
 layout activity_promo
 layout custom_dialog
 layout design_bottom_navigation_item

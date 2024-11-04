@@ -13,7 +13,6 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import com.spin.Spinlaundry.PelangganActivity;
 import com.spin.laundry.R;
 
 import java.util.UUID;
